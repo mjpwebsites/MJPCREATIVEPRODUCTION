@@ -19,10 +19,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const portfolioItems = [
     { category: 'wedding', image: 'https://i.ibb.co/G3jSSrG/474702378-497604416779116-1102076383150094893-n.jpg' },
     { category: 'portrait', image: 'https://i.ibb.co/g4Zz7S0/473785351-1261833884894878-9190213595406354699-n.jpg' },
-    { category: 'Upcoming Videos', image: 'https://source.unsplash.com/random/400x300/?commercial' },
+    { category: 'commercial', image: 'https://source.unsplash.com/random/400x300/?commercial' },
     { category: 'wedding', image: 'https://i.ibb.co/vXDS09T/Hitube-zia7-B6-S4nm-2025-01-25-13-36-46.jpg' },
     { category: 'portrait', image: 'https://i.ibb.co/s2yhSgC/474327758-1309269570412239-7511186489870293545-n.jpg' },
-    { category: 'Upcoming Videos', image: 'https://source.unsplash.com/random/400x300/?business' }
+    { category: 'commercial', image: 'https://source.unsplash.com/random/400x300/?business' }
   ];
 
   // Populate gallery

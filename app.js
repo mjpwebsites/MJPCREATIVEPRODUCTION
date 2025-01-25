@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Sample portfolio items
   const portfolioItems = [
-    { category: 'wedding', image: 'https://ibb.co/M5L00JK' },
+    { category: 'wedding', image: 'https://i.ibb.co/g4Zz7S0/473785351-1261833884894878-9190213595406354699-n.jpg' },
     { category: 'portrait', image: 'https://ibb.co/6X0gZHK' },
     { category: 'commercial', image: 'https://source.unsplash.com/random/400x300/?commercial' },
     { category: 'wedding', image: 'https://cdn.discordapp.com/attachments/1184537320569966594/1331473889338986538/facebook_1737518464090_7287680644009942888.jpg?ex=6791bf30&is=67906db0&hm=cd109b9947f124e3d21b0c7895a6d19746062733820a45d5886a02a3f71eb969&' },
